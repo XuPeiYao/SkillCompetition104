@@ -1,0 +1,3 @@
+C:\Users\XuPeiYao\Desktop\SkillCompetition104\SkillCompetition104_V\bin\Debug\SkillCompetition104.exe.config
+C:\Users\XuPeiYao\Desktop\SkillCompetition104\SkillCompetition104_V\obj\Debug\SkillCompetition104.exe
+C:\Users\XuPeiYao\Desktop\SkillCompetition104\SkillCompetition104_V\obj\Debug\SkillCompetition104.pdb
